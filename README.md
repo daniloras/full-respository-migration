@@ -40,7 +40,6 @@ When you want to clone a repository for the purpose of migration, you really wan
 
 - Not necessary inform local folder git origin (coming soon)
 
-
 ## AUTHORS
 
 | [<img src="https://avatars3.githubusercontent.com/u/25010021?s=96&v=4" width=80><br><sub>@daniloras</sub>](https://github.com/daniloras) | [<img src="https://avatars3.githubusercontent.com/u/15126865?s=96&v=4" width=80><br><sub>@ariusxi</sub>](https://github.com/ariusxi) |
